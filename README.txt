@@ -7,9 +7,8 @@
 
 PROTOTYPES
 
-    - pfont : an implementation of the PFont API using the PIL
-      library.
-
+    List your suggestions:
+    - 
 
 USAGE
 
